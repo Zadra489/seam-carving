@@ -1,6 +1,7 @@
 # Seam Carving Algorithm
 
 This project was an assignment from ESC190: Data Structures and Algorithms
+
 Credit: the assignment was originally designed by Josh Hug. Port to C by Michael Guerzhoy.
 
 ## Purpose: 
